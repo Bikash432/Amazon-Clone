@@ -1,7 +1,7 @@
 # Amazon Clone using MERN Stack
 
 ## Overview
-This project is a fully functional e-commerce web application inspired by Amazon, built using the MERN (MongoDB, Express.js, React, and Node.js) stack. It includes essential features like user authentication, product management, shopping cart, order processing, and payment integration.
+This project is a fully functional e-commerce web application inspired by Amazon, built using the Java, SpringBoot,React,HMTL3,CSS stack. It includes essential features like user authentication, product management, shopping cart, order processing, and payment integration.
 
 ## Features
 - **User Authentication**: Signup, login, logout, and profile management.
